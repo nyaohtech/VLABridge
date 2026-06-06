@@ -2,7 +2,7 @@
   "name": "com.nyaohtech.vlabridge",
   "displayName": "VLA Bridge",
   "version": "1.0.0",
-  "unity": "2022.3",
+  "unity": "2020.3",
   "description": "VLA (VRC-Library Assist) Unity Bridge — Editor Window for connecting to VLA and managing VRChat assets.",
   "author": {
     "name": "nyaohtech",
