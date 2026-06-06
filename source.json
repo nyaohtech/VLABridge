@@ -12,8 +12,12 @@
         "text": "View on GitHub"
     },
     "bannerUrl": "banner.png",
-    "githubRepos": [
-        "nyaohtech/VLABridge"
-    ],
-    "packages": []
+    "packages": [
+        {
+            "name": "com.nyaohtech.vlabridge",
+            "releases": [
+                "https://github.com/nyaohtech/VLABridge/releases/download/1.0.0/com.nyaohtech.vlabridge-1.0.0.zip"
+            ]
+        }
+    ]
 }
