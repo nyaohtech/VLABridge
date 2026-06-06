@@ -1,4 +1,4 @@
-# VLA Bridge — VPM Package Listing
+# VLA Bridge
 
 VLA (VRC-Library Assist) Unity Bridge の VPM (VRChat Package Manager) リポジトリです。  
 VRChat Creator Companion (VCC) からインストールできます。
@@ -24,13 +24,15 @@ https://nyaohtech.github.io/VLABridge/index.json
 - **VLABridgeWindow.cs** — Unity Editor ウィンドウ  
   VLA アプリ (ws://localhost:27420) と WebSocket 通信し、アセットライブラリの閲覧・インポート・テンプレート管理を行います。
 
-## メニュー
+## Unityメニュー
 
 | メニュー | 機能 |
 |---|---|
 | `VLA > Library Bridge` (Ctrl+Shift+V) | メインウィンドウを開く |
 | `VLA > Template Creator` | テンプレート作成ウィンドウ |
 | `VLA > Import Template` | テンプレートインポートウィンドウ |
+
+---
 
 ## 動作環境
 
